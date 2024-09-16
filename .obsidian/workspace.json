@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "28a35a5cd459cead",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef7c302322115e9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3740a68034e09da8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": -560,
+                  "y": -430,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad3a04cbb028b823",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2a8df8d6a528148",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9924d01b511a4255",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1eac9b328fd060a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f03f3c8dfb284ba",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "52c9d49b502386e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa01c491e2653e96",
+    "type": "split",
+    "children": [
+      {
+        "id": "646489720caa9a01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "129625d5350b8eff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5261e61449528ef3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9e199383c881bff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a4b949f244bc8bb9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 1.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3740a68034e09da8",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "EGSolutions/Servers/CS-Go/Untitled.md",
+    "EGSolutions/Servers/CS-Go",
+    "EGSolutions/Servers/Minecraft",
+    "EGSolutions/Servers/Fivem/Minecraft",
+    "EGSolutions/Servers/Fivem",
+    "EGSolutions/Bot/API Integration",
+    "EGSolutions/MainConcepts/Egsoltuions.md",
+    "EGSolutions/MainConcepts/Untitled.md",
+    "EGSolutions/Servers",
+    "EGSolutions/Bot",
+    "EGSolutions/Website",
+    "EGSolutions/MainConcepts",
+    "2023-2024/Work 17-07-2023.md",
+    "2024-09-16.md",
+    "2023-10-17.md",
+    "2023-2024/discord/bot/comands.md",
+    "2023-2024/discord/bot",
+    "2023-2024.md",
+    "egsolutions/Base de dados.md",
+    "2023-04-25.md",
+    "2022-12-14.md"
+  ]
+}
