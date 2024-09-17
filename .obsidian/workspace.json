@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EGSolutions/Website/Features/Breadcrumbs/Breadcrumbs.md",
+                "file": "EGSolutions/Designs/Logo/Logos.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EGSolutions/Website/Features/Breadcrumbs/Breadcrumbs.md",
+                "file": "EGSolutions/Designs/Logo/Logos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EGSolutions/Website/Features/Breadcrumbs/Breadcrumbs.md",
+                "file": "EGSolutions/Designs/Logo/Logos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EGSolutions/Website/Features/Breadcrumbs/Breadcrumbs.md"
+                "file": "EGSolutions/Designs/Logo/Logos.md"
               }
             }
           }
@@ -181,31 +181,37 @@
   },
   "active": "9924d01b511a4255",
   "lastOpenFiles": [
-    "EGSolutions/Website/Features/Buttons/Buttons.md",
+    "EGSolutions/Designs/Logo/scr",
+    "EGSolutions/Designs/Logo/scr/egswithoutcrown&effects.png",
+    "EGSolutions/Designs/Logo/Logos.md",
+    "egs96x96.jpg",
+    "EGSolutions/Study/Languages/Abstract.md",
+    "EGSolutions/Designs/Merch",
+    "EGSolutions/Designs/Banners",
+    "EGSolutions/Designs/Logo",
+    "EGSolutions/Notes/Not urgent",
+    "EGSolutions/Notes/Average",
+    "EGSolutions/Notes/Urgent",
+    "EGSolutions/Notes/2024-09-17.md",
+    "EGSolutions/Notes",
+    "EGSolutions/Study/Languages/Typescript/Dependencies",
+    "EGSolutions/Study/Languages/SQL + PostGres/Dependencies",
+    "EGSolutions/Study/Languages/Rust/Dependencies",
+    "EGSolutions/Study/Languages/Rust/Rust.md",
     "EGSolutions/Website/Features/Breadcrumbs/Breadcrumbs.md",
+    "EGSolutions/Website/Features/Buttons/Buttons.md",
     "EGSolutions/Website/Features/Footer/Footer.md",
     "EGSolutions/Website/Features/Hash System/Hash System.md",
     "EGSolutions/Website/Features/Navbar/Navbar.md",
     "EGSolutions/Website/Features/Login System/Untitled.md",
     "EGSolutions/Website/Features/Pages/Abstract.md",
-    "EGSolutions/Website/Features/Pages/CSGO",
-    "EGSolutions/Website/Features/Pages/Minecraft",
-    "EGSolutions/Website/Features/Pages/About Us",
     "EGSolutions/Website/Features/Parallax Effect/Parallax Effect.md",
     "EGSolutions/Website/Features/Register System/Register System.md",
     "EGSolutions/Website/Features/Responsive Pages/Responsive Pages.md",
     "EGSolutions/Website/Abstract.md",
-    "EGSolutions/Website/Features/Responsive Pages",
-    "EGSolutions/Website/Features/Pages",
-    "EGSolutions/Website/Features/Breadcrumbs",
-    "EGSolutions/Website/Features/Buttons",
-    "EGSolutions/Website/Features/Footer",
-    "EGSolutions/Website/Features/Navbar",
-    "EGSolutions/Website/Features/Parallax Effect",
     "EGSolutions/Website/Features/Login System/Login System.md",
     "EGSolutions/Website/Features/Login System.md",
     "EGSolutions/Website/Untitled.md",
-    "EGSolutions/Study/Languages/Abstract.md",
     "EGSolutions/Monitoring/Features/Automatic Alerts/Automatic Alerts.md",
     "EGSolutions/Monitoring/Features/Artificial intelligence/Artificial intelligence.md",
     "EGSolutions/Monitoring/Features/SNMP Support/SNMP Support.md",
@@ -213,10 +219,6 @@
     "EGSolutions/Monitoring/Features/Real-time Console/Real-time Console.md",
     "EGSolutions/Monitoring/Features/Network Traffic/Network Traffic.md",
     "EGSolutions/Monitoring/Features/Geolocation/Geolocation.md",
-    "EGSolutions/Monitoring/Features/FTP System/FTP System.md",
-    "EGSolutions/Monitoring/Features/Control Storage/Control Storage.md",
-    "EGSolutions/Monitoring/Features/Component Controller/Component Controller.md",
-    "EGSolutions/Monitoring/Features/Reports/Reports.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

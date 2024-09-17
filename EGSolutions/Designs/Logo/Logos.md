@@ -1,0 +1,1 @@
+![[egswithoutcrown&effects.png]]
