@@ -11,14 +11,11 @@
             "id": "3740a68034e09da8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": -560,
-                  "y": -430,
-                  "zoom": 0
-                }
+                "file": "EGSolutions/Servers/Minecraft/Abstract.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "EGSolutions/Servers/Minecraft/Abstract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "EGSolutions/Servers/Minecraft/Abstract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.canvas"
+                "file": "EGSolutions/Servers/Minecraft/Abstract.md"
               }
             }
           }
@@ -157,27 +154,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3740a68034e09da8",
+  "active": "9924d01b511a4255",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "EGSolutions/Servers/Fivem/Scritps",
+    "EGSolutions/Servers/Fivem/Abstract.md",
+    "EGSolutions/Servers/Minecraft/Abstract.md",
+    "EGSolutions/Servers/CS-Go/Abstract.md",
+    "EGSolutions/Monitoring/Abstract.md",
     "Untitled 1.canvas",
-    "EGSolutions/Servers/CS-Go/Untitled.md",
+    "EGSolutions/Monitoring",
+    "EGSolutions/MainConcepts/Egsoltuions.md",
+    "EGSolutions/Servers/Fivem/How to make.md",
+    "EGSolutions/Designs",
+    "EGSolutions/Servers/Minecraft/How to make.md",
+    "EGSolutions/Servers/CS-Go/How to make.md",
+    "EGSolutions/Requests",
+    "Untitled.canvas",
     "EGSolutions/Servers/CS-Go",
     "EGSolutions/Servers/Minecraft",
     "EGSolutions/Servers/Fivem/Minecraft",
     "EGSolutions/Servers/Fivem",
     "EGSolutions/Bot/API Integration",
-    "EGSolutions/MainConcepts/Egsoltuions.md",
     "EGSolutions/MainConcepts/Untitled.md",
     "EGSolutions/Servers",
     "EGSolutions/Bot",
-    "EGSolutions/Website",
-    "EGSolutions/MainConcepts",
     "2023-2024/Work 17-07-2023.md",
     "2024-09-16.md",
     "2023-10-17.md",
     "2023-2024/discord/bot/comands.md",
-    "2023-2024/discord/bot",
     "2023-2024.md",
     "egsolutions/Base de dados.md",
     "2023-04-25.md",
