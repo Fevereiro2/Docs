@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"2152f42ac6e1a1b0","type":"file","file":"EGSolutions/MainConcepts/Egsoltuions.md","x":-940,"y":-780,"width":760,"height":700},
+		{"id":"5ed1bc5e322bc0ff","type":"file","file":"EGSolutions/Study/Languages/Rust/Rust.md","x":-1240,"y":-2360,"width":400,"height":400},
+		{"id":"a8fb0926cbd11a3c","type":"file","file":"EGSolutions/Study/Languages/SQL + PostGres/SQL + PostGres.md","x":-1720,"y":-2360,"width":400,"height":400},
+		{"id":"2f6cef56d604c095","type":"file","file":"EGSolutions/Designs/Logo/Logos.md","x":-760,"y":-1520,"width":400,"height":400},
+		{"id":"e642759f24a408fa","type":"file","file":"EGSolutions/Study/Languages/Typescript/Typescript.md","x":-2200,"y":-2360,"width":400,"height":400},
+		{"id":"113db0ccc832e388","type":"file","file":"EGSolutions/Study/Languages/Typescript/Dependencies/React + Vite.md","x":-2200,"y":-3120,"width":400,"height":400},
+		{"id":"4655394c8637b173","type":"file","file":"EGSolutions/Study/Languages/Abstract.md","x":-1700,"y":-1088,"width":400,"height":400},
+		{"id":"31af6aaa0a71fc36","x":-4160,"y":-1088,"width":1134,"height":816,"type":"file","file":"EGSolutions/Designs/Diagrams/EGSolutionsCore.drawio.png"}
+	],
+	"edges":[
+		{"id":"ed65bd5813c3b3ba","fromNode":"2152f42ac6e1a1b0","fromSide":"top","toNode":"2f6cef56d604c095","toSide":"bottom"},
+		{"id":"37471e4c42a9e7a1","fromNode":"2152f42ac6e1a1b0","fromSide":"left","toNode":"4655394c8637b173","toSide":"bottom"},
+		{"id":"8c8aec397dea272e","fromNode":"4655394c8637b173","fromSide":"top","toNode":"a8fb0926cbd11a3c","toSide":"bottom"},
+		{"id":"67eb02681073ab6d","fromNode":"4655394c8637b173","fromSide":"top","toNode":"5ed1bc5e322bc0ff","toSide":"bottom"},
+		{"id":"d4ddaad641831f0e","fromNode":"4655394c8637b173","fromSide":"top","toNode":"e642759f24a408fa","toSide":"bottom"},
+		{"id":"0d69ca3aa9ae58d1","fromNode":"e642759f24a408fa","fromSide":"top","toNode":"113db0ccc832e388","toSide":"bottom"},
+		{"id":"e6a03a5501268167","fromNode":"4655394c8637b173","fromSide":"left","toNode":"31af6aaa0a71fc36","toSide":"right"},
+		{"id":"751f60cad67f042d","fromNode":"2152f42ac6e1a1b0","fromSide":"left","toNode":"31af6aaa0a71fc36","toSide":"right"}
+	]
+}
