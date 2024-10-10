@@ -11,15 +11,8 @@
             "id": "31415a0bba32c5de",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "EGSolutions/Untitled 1.canvas",
-                "viewState": {
-                  "x": -2224.1264141174074,
-                  "y": -368.31881445768,
-                  "zoom": -2.073466206578223
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EGSolutions/Untitled 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EGSolutions/Untitled 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "EGSolutions/Untitled 1.canvas"
-              }
+              "state": {}
             }
           }
         ],
@@ -157,13 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31415a0bba32c5de",
+  "active": "9924d01b511a4255",
   "lastOpenFiles": [
+    "Ispgaya/Sistemas digitais/Sistemas digitais.md",
+    "Ispgaya/Algoritmia/1º e 2º aula.md",
+    "EGSolutions/Monitoring/Operation System/Support operation system.md",
+    "Ispgaya/Sistemas digitais",
+    "EGSolutions/Untitled 1.canvas",
+    "EGSolutions/Monitoring/Operation System",
     "EGSolutions/Designs/Diagrams/EGSolutionsCore.drawio.png",
     "EGSolutions/Designs/Logo/Logos.md",
-    "EGSolutions/Untitled 1.canvas",
     "EGSolutions/Designs/Diagrams",
-    "Ispgaya/Algoritmia/1º e 2º aula.md",
     "Ispgaya/Algoritmia",
     "Untitled.md",
     "Ispgaya",
@@ -179,8 +172,6 @@
     "EGSolutions/Designs/Banners",
     "EGSolutions/Designs/Logo",
     "EGSolutions/Notes/Not urgent",
-    "EGSolutions/Notes/Average",
-    "EGSolutions/Notes/Urgent",
     "EGSolutions/Notes/2024-09-17.md",
     "EGSolutions/Study/Languages/Rust/Rust.md",
     "EGSolutions/Website/Features/Buttons/Buttons.md",
@@ -197,7 +188,6 @@
     "EGSolutions/Website/Features/Login System.md",
     "EGSolutions/Website/Untitled.md",
     "EGSolutions/Monitoring/Features/Automatic Alerts/Automatic Alerts.md",
-    "EGSolutions/Monitoring/Features/Real-time Monitoring/Real-time Monitoring.md",
     "Untitled.canvas"
   ]
 }
